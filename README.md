@@ -27,17 +27,17 @@ I craft intuitive UI/UX and continuously explore new tools to deliver high-quali
 
 ### 1. Portfolio Website
 - **Description:** Personal portfolio showcasing skills, projects, and a contact form.  
-- **Tech Stack:** React, Tailwind CSS, Node.js, Express, Brevo API  
-- **Live Demo:** [Visit Website](https://your-portfolio-frontend.com)  
+- **Tech Stack:** React, Tailwind CSS,  
+- **Live Demo:** [Visit Website](https://my-portfolio-1-li48.onrender.com/)  
 - **Source Code:** [GitHub Repo](https://github.com/Amazinghope/portfolio.git)
 
-### 2. [Project Name]
-- **Description:** [Brief description of the project]  
-- **Tech Stack:** [Technologies used]  
-- **Live Demo:** [Link]  
-- **Source Code:** [GitHub Repo Link]
+### 2. [Maris-toys-frontend]
+- **Description:** [An e-commerce toy site]  
+- **Tech Stack:** [Vite, Tailwind]  
+- **Live Demo:** [[Link](https://maris-toys-frontend.onrender.com)]  
+- **Source Code:** [[GitHub Repo Link](https://github.com/Amazinghope/Maris-Toys-Frontend.git)]
 
-*(Add more projects as needed with live demos and source links)*
+
 
 ---
 
