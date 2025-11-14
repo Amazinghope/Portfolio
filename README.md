@@ -71,31 +71,7 @@ I craft intuitive UI/UX and continuously explore new tools to deliver high-quali
 
 ---
 
-## 💻 Projects
 
-### 1. Portfolio Website
-- **Description:** Personal portfolio showcasing skills, projects, and a contact form.  
-- **Tech Stack:** React, Tailwind CSS, Node.js, Express, Brevo API  
-- **Live Demo:** [Visit Website](https://your-portfolio-frontend.com)  
-- **Source Code:** [GitHub Repo](https://github.com/YourUsername/portfolio)
-
-### 2. [Project Name]
-- **Description:** [Brief description of the project]  
-- **Tech Stack:** [Technologies used]  
-- **Live Demo:** [Link]  
-- **Source Code:** [GitHub Repo Link]
-
-*(Add more projects as needed with live demos and source links)*
-
----
-
-## 📬 Contact
-
-Feel free to reach out via:  
-
-- **Email:** [your.email@example.com](mailto:hopply395@gmail.com)  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/hope-ubaha-82860627b)  
-- **Portfolio Contact Form:** [Visit Website](https://my-portfolio-1-li48.onrender.com/)
 
 ---
 
@@ -122,21 +98,3 @@ If you like this portfolio, give it a ⭐ and share with others!
 
 ---
 
-## ⚡ Features
-
-- Fully **responsive design** with React + Tailwind CSS  
-- **Interactive Hero section** with modern animations  
-- **Backend integration** for contact form messages (Brevo API)  
-- Showcases both **frontend and backend projects**  
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.  
-
----
-
-## ⭐ Show your support
-
-If you like this portfolio, give it a ⭐ and share with others!
