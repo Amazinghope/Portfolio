@@ -2,8 +2,8 @@ import React from "react";
 
 const Testimonials = () => {
   const testimonials = [
-    { name: "John Doe", message: "AmazingHope is an excellent developer!" },
-    { name: "Jane Smith", message: "Delivered my project on time with amazing quality." },
+    { name: "George ", message: "AmazingHope is an excellent developer!" },
+    { name: "Maris Mommoh", message: "Delivered my project on time with amazing quality." },
   ];
 
   return (
