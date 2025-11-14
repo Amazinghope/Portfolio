@@ -39,9 +39,9 @@ const Hero = () => {
           href="https://portfolio-alt-khaki.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-amber-700 text-white py-3 px-6 rounded-full w-40 mt-6 hover:bg-amber-800 transition"
-        >
-          View My Other Portfolio
+          className="bg-amber-700 text-white p-3 text-center rounded-full w-50 mt-6 hover:bg-amber-800 transition"
+        >Explore Projects
+          {/* View My Other Portfolio */}
         </a>
       </div>
     </section>
