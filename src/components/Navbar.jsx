@@ -37,7 +37,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="fixed w-full bg-white/30 backdrop-blur-md shadow-md z-50">
+    <nav className="fixed w-full bg-white/30 backdrop-blur-md shadow-md  z-50">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <div className="text-2xl font-bold text-amber-700">AMZH</div>
         <ul className="hidden md:flex gap-8 text-gray-700 font-semibold">
