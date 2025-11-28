@@ -27,11 +27,11 @@ const Hero = () => {
         </h2>
 
         <p className="text-gray-700 mt-6 text-base md:text-lg">
-          I’m a passionate Fullstack Developer who enjoys building modern,
-          responsive websites and robust backend systems using technologies like
-          Node.js, Express, and databases. I craft intuitive UI/UX and
-          continuously explore new tools and frameworks to improve my skills.
-        </p>
+          I’m a Fullstack Developer building modern, responsive web applications. 
+          I work with React, HTML, CSS, and Tailwind on the frontend, and Node.js, 
+          Express, and databases on the backend. I focus on creating user-friendly,
+           efficient applications while continuously exploring new tools and frameworks.  
+           </p>
 
         <a
           href="https://portfolio-alt-khaki.vercel.app/"
